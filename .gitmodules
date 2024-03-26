@@ -1,0 +1,4 @@
+[submodule "Goldmite.github.io"]
+	path = Goldmite.github.io
+	url = https://github.com/Goldmite/Goldmite.github.io.git
+	branch = main
