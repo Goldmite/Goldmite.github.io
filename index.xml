@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>private_Umbrella</title>
+    <link>https://Goldmite.github.io/</link>
+    <description>Recent content on private_Umbrella</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Mar 2024 22:42:06 +0200</lastBuildDate>
+    <atom:link href="https://Goldmite.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>private_Umbrella</title>
+      <link>https://Goldmite.github.io/posts/privateumbrella/</link>
+      <pubDate>Tue, 26 Mar 2024 22:42:06 +0200</pubDate>
+      <guid>https://Goldmite.github.io/posts/privateumbrella/</guid>
+      <description>Hello friend,&#xA;The journey to find your own private umbrella begins now.</description>
+    </item>
+  </channel>
+</rss>
