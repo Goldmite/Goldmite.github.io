@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Untagged on private_Umbrella</title>
-    <link>https://Goldmite.github.io/tags/untagged/</link>
+    <link>http://localhost:1313/tags/untagged/</link>
     <description>Recent content in Untagged on private_Umbrella</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Mar 2024 22:42:06 +0200</lastBuildDate>
-    <atom:link href="https://Goldmite.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Mar 2024 17:13:33 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guide</title>
+      <link>http://localhost:1313/posts/tutorial/</link>
+      <pubDate>Wed, 27 Mar 2024 17:13:33 +0200</pubDate>
+      <guid>http://localhost:1313/posts/tutorial/</guid>
+      <description>&#xA;print(&amp;#34;Goodbye, Google!&amp;#34;) </description>
+    </item>
     <item>
       <title>private_Umbrella</title>
-      <link>https://Goldmite.github.io/posts/privateumbrella/</link>
+      <link>http://localhost:1313/posts/privateumbrella/</link>
       <pubDate>Tue, 26 Mar 2024 22:42:06 +0200</pubDate>
-      <guid>https://Goldmite.github.io/posts/privateumbrella/</guid>
+      <guid>http://localhost:1313/posts/privateumbrella/</guid>
       <description>Hello friend,&#xA;The journey to find your own private umbrella begins now.</description>
     </item>
   </channel>
