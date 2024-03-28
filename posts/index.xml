@@ -1,22 +1,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on private_Umbrella</title>
-        <link>https://Goldmite.github.io/posts/</link>
+        <link>http://localhost:1313/posts/</link>
         <description>Recent content in Posts on private_Umbrella</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Wed, 27 Mar 2024 17:13:33 +0200</lastBuildDate>
-        <atom:link href="https://Goldmite.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Guide</title>
-            <link>https://Goldmite.github.io/posts/tutorial/</link>
+            <link>http://localhost:1313/posts/tutorial/</link>
             <pubDate>Wed, 27 Mar 2024 17:13:33 +0200</pubDate>
             
-            <guid>https://Goldmite.github.io/posts/tutorial/</guid>
+            <guid>http://localhost:1313/posts/tutorial/</guid>
             <description>Secure accounts Keeping your privacy by having secure accounts
 and doing minimal less is more on the Internet.
-def login(): username = &amp;#34;private_umbrella&amp;#34; password = &amp;#34;A6N?^QZ:fR?x;.$xhd^+r\\RyTj&amp;#34;lu&amp;#34; new_window = ctk.CTkToplevel(app) new_window.title(&amp;#34;New Window&amp;#34;) new_window.geometry(&amp;#34;350x150&amp;#34;) if user_entry.get() == username and user_pass.get() == password: tkmb.showinfo(title=&amp;#34;Login Successful&amp;#34;, message=&amp;#34;You have logged in Successfully&amp;#34;) ctk.CTkLabel(new_window, text=&amp;#34;Keep your donuts private&amp;#34;).pack() Follow these steps:
+def login(): username = &amp;#34;private_umbrella&amp;#34; password = &amp;#34;A6N?^QZ:fR?x;.$xhd^+r\\RyTj-lu&amp;#34; new_window = ctk.CTkToplevel(app) new_window.title(&amp;#34;New Window&amp;#34;) new_window.geometry(&amp;#34;350x150&amp;#34;) if user_entry.get() == username and user_pass.get() == password: tkmb.showinfo(title=&amp;#34;Login Successful&amp;#34;, message=&amp;#34;You have logged in Successfully&amp;#34;) ctk.CTkLabel(new_window, text=&amp;#34;Keep your donuts private&amp;#34;).pack() Follow these steps:
 Use a password manager. (eg.: KeyPass) Create unique and long passwords. (change your passwords now) Delete unneeded accounts - stay minimal.</description>
             <content type="html"><![CDATA[<p><img src="/Online-Privacy.jpg" alt="OnlinePrivacySketchdoodle"></p>
 <h4 id="secure-accounts">Secure accounts</h4>
@@ -24,7 +24,7 @@ Use a password manager. (eg.: KeyPass) Create unique and long passwords. (change
 and doing minimal <em>less is more</em> on the Internet.</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">login</span>(): 
 </span></span><span style="display:flex;"><span>    username <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;private_umbrella&#34;</span> 
-</span></span><span style="display:flex;"><span>    password <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;A6N?^QZ:fR?x;.$xhd^+r</span><span style="color:#ae81ff">\\</span><span style="color:#e6db74">RyTj&#34;</span>lu<span style="color:#e6db74">&#34; </span>
+</span></span><span style="display:flex;"><span>    password <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;A6N?^QZ:fR?x;.$xhd^+r</span><span style="color:#ae81ff">\\</span><span style="color:#e6db74">RyTj-lu&#34;</span> 
 </span></span><span style="display:flex;"><span>    new_window <span style="color:#f92672">=</span> ctk<span style="color:#f92672">.</span>CTkToplevel(app) 
 </span></span><span style="display:flex;"><span>  
 </span></span><span style="display:flex;"><span>    new_window<span style="color:#f92672">.</span>title(<span style="color:#e6db74">&#34;New Window&#34;</span>) 
@@ -48,10 +48,10 @@ and doing minimal <em>less is more</em> on the Internet.</p>
         
         <item>
             <title>private_Umbrella</title>
-            <link>https://Goldmite.github.io/posts/privateumbrella/</link>
+            <link>http://localhost:1313/posts/privateumbrella/</link>
             <pubDate>Tue, 26 Mar 2024 22:42:06 +0200</pubDate>
             
-            <guid>https://Goldmite.github.io/posts/privateumbrella/</guid>
+            <guid>http://localhost:1313/posts/privateumbrella/</guid>
             <description>Introduction Hello friend,
 The journey to find your own private umbrella begins now.
 Spectrum Consider where you want to be on the privacy spectrum.
