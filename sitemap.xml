@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/tutorial/</loc>
+    <loc>https://Goldmite.github.io/posts/tutorial/</loc>
     <lastmod>2024-03-27T17:13:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://Goldmite.github.io/posts/</loc>
     <lastmod>2024-03-27T17:13:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://Goldmite.github.io/</loc>
     <lastmod>2024-03-27T17:13:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/privateumbrella/</loc>
+    <loc>https://Goldmite.github.io/posts/privateumbrella/</loc>
     <lastmod>2024-03-26T22:42:06+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/git-project/</loc>
+    <loc>https://Goldmite.github.io/git-project/</loc>
   </url><url>
-    <loc>http://localhost:1313/personal-webpage/</loc>
+    <loc>https://Goldmite.github.io/personal-webpage/</loc>
   </url><url>
-    <loc>http://localhost:1313/wip/</loc>
+    <loc>https://Goldmite.github.io/wip/</loc>
   </url>
 </urlset>

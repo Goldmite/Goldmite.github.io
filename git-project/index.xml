@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Git Project on private_Umbrella</title>
-    <link>http://localhost:1313/git-project/</link>
+    <link>https://Goldmite.github.io/git-project/</link>
     <description>Recent content in Git Project on private_Umbrella</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/git-project/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Goldmite.github.io/git-project/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
