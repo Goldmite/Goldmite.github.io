@@ -14,11 +14,36 @@
             <pubDate>Wed, 27 Mar 2024 17:13:33 +0200</pubDate>
             
             <guid>https://Goldmite.github.io/posts/tutorial/</guid>
-            <description>
-print(&amp;#34;Goodbye, Google!&amp;#34;) </description>
-            <content type="html"><![CDATA[<p><img src="/Online-Privacy.jpg" alt="OnlinePrivacySketchdoodle" title="Be secure"></p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>print(<span style="color:#e6db74">&#34;Goodbye, Google!&#34;</span>)
-</span></span></code></pre></div>]]></content>
+            <description>Secure accounts Keeping your privacy by having secure accounts
+and doing minimal less is more on the Internet.
+def login(): username = &amp;#34;private_umbrella&amp;#34; password = &amp;#34;A6N?^QZ:fR?x;.$xhd^+r\\RyTj&amp;#34;lu&amp;#34; new_window = ctk.CTkToplevel(app) new_window.title(&amp;#34;New Window&amp;#34;) new_window.geometry(&amp;#34;350x150&amp;#34;) if user_entry.get() == username and user_pass.get() == password: tkmb.showinfo(title=&amp;#34;Login Successful&amp;#34;, message=&amp;#34;You have logged in Successfully&amp;#34;) ctk.CTkLabel(new_window, text=&amp;#34;Keep your donuts private&amp;#34;).pack() Follow these steps:
+Use a password manager. (eg.: KeyPass) Create unique and long passwords. (change your passwords now) Delete unneeded accounts - stay minimal.</description>
+            <content type="html"><![CDATA[<p><img src="/Online-Privacy.jpg" alt="OnlinePrivacySketchdoodle"></p>
+<h4 id="secure-accounts">Secure accounts</h4>
+<p>Keeping your privacy by having secure accounts<br>
+and doing minimal <em>less is more</em> on the Internet.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">login</span>(): 
+</span></span><span style="display:flex;"><span>    username <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;private_umbrella&#34;</span> 
+</span></span><span style="display:flex;"><span>    password <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;A6N?^QZ:fR?x;.$xhd^+r</span><span style="color:#ae81ff">\\</span><span style="color:#e6db74">RyTj&#34;</span>lu<span style="color:#e6db74">&#34; </span>
+</span></span><span style="display:flex;"><span>    new_window <span style="color:#f92672">=</span> ctk<span style="color:#f92672">.</span>CTkToplevel(app) 
+</span></span><span style="display:flex;"><span>  
+</span></span><span style="display:flex;"><span>    new_window<span style="color:#f92672">.</span>title(<span style="color:#e6db74">&#34;New Window&#34;</span>) 
+</span></span><span style="display:flex;"><span>    new_window<span style="color:#f92672">.</span>geometry(<span style="color:#e6db74">&#34;350x150&#34;</span>) 
+</span></span><span style="display:flex;"><span>      
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">if</span> user_entry<span style="color:#f92672">.</span>get() <span style="color:#f92672">==</span> username <span style="color:#f92672">and</span> user_pass<span style="color:#f92672">.</span>get() <span style="color:#f92672">==</span> password: 
+</span></span><span style="display:flex;"><span>        tkmb<span style="color:#f92672">.</span>showinfo(title<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Login Successful&#34;</span>, 
+</span></span><span style="display:flex;"><span>          message<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;You have logged in Successfully&#34;</span>) 
+</span></span><span style="display:flex;"><span>        ctk<span style="color:#f92672">.</span>CTkLabel(new_window, 
+</span></span><span style="display:flex;"><span>                     text<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Keep your donuts private&#34;</span>)<span style="color:#f92672">.</span>pack() 
+</span></span></code></pre></div><p>Follow these steps:</p>
+<ol>
+<li>Use a password manager. (<em>eg.: KeyPass</em>)</li>
+<li>Create unique and long passwords. (change your passwords <strong>now</strong>)</li>
+<li>Delete unneeded accounts - stay <strong>minimal</strong>.</li>
+<li>Consider using secure browsers aswell! (<em>eg.: <a href="https://www.mozilla.org/" title="Firefox">Firefox</a>, Brave, Tor</em>)</li>
+</ol>
+<p>The next update will dive <em>deeper</em> into browsers.</p>
+]]></content>
         </item>
         
         <item>
@@ -27,10 +52,23 @@ print(&amp;#34;Goodbye, Google!&amp;#34;) </description>
             <pubDate>Tue, 26 Mar 2024 22:42:06 +0200</pubDate>
             
             <guid>https://Goldmite.github.io/posts/privateumbrella/</guid>
-            <description>Hello friend,
-The journey to find your own private umbrella begins now.</description>
-            <content type="html"><![CDATA[<p>Hello friend,</p>
+            <description>Introduction Hello friend,
+The journey to find your own private umbrella begins now.
+Spectrum Consider where you want to be on the privacy spectrum.
+Do you want to be a normie and let companies know everything about you
+OR
+Do you want to be fully anonymous? Or maybe somewhere in between?
+This is how you will define your values of privacy.</description>
+            <content type="html"><![CDATA[<h3 id="introduction">Introduction</h3>
+<p>Hello friend,</p>
 <p>The journey to find your own private umbrella begins now.</p>
+<hr>
+<h3 id="spectrum">Spectrum</h3>
+<p>Consider where you want to be on the privacy spectrum.</p>
+<p>Do you want to be a normie and let companies know everything about you</p>
+<p><strong>OR</strong></p>
+<p>Do you want to be fully anonymous? <em>Or maybe somewhere in between?</em></p>
+<p><strong>This</strong> is how you will define your values of privacy.</p>
 ]]></content>
         </item>
         

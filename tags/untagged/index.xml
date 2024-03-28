@@ -13,14 +13,14 @@
       <link>https://Goldmite.github.io/posts/tutorial/</link>
       <pubDate>Wed, 27 Mar 2024 17:13:33 +0200</pubDate>
       <guid>https://Goldmite.github.io/posts/tutorial/</guid>
-      <description>&#xA;print(&amp;#34;Goodbye, Google!&amp;#34;) </description>
+      <description>Secure accounts Keeping your privacy by having secure accounts&#xA;and doing minimal less is more on the Internet.&#xA;def login(): username = &amp;#34;private_umbrella&amp;#34; password = &amp;#34;A6N?^QZ:fR?x;.$xhd^+r\\RyTj&amp;#34;lu&amp;#34; new_window = ctk.CTkToplevel(app) new_window.title(&amp;#34;New Window&amp;#34;) new_window.geometry(&amp;#34;350x150&amp;#34;) if user_entry.get() == username and user_pass.get() == password: tkmb.showinfo(title=&amp;#34;Login Successful&amp;#34;, message=&amp;#34;You have logged in Successfully&amp;#34;) ctk.CTkLabel(new_window, text=&amp;#34;Keep your donuts private&amp;#34;).pack() Follow these steps:&#xA;Use a password manager. (eg.: KeyPass) Create unique and long passwords. (change your passwords now) Delete unneeded accounts - stay minimal.</description>
     </item>
     <item>
       <title>private_Umbrella</title>
       <link>https://Goldmite.github.io/posts/privateumbrella/</link>
       <pubDate>Tue, 26 Mar 2024 22:42:06 +0200</pubDate>
       <guid>https://Goldmite.github.io/posts/privateumbrella/</guid>
-      <description>Hello friend,&#xA;The journey to find your own private umbrella begins now.</description>
+      <description>Introduction Hello friend,&#xA;The journey to find your own private umbrella begins now.&#xA;Spectrum Consider where you want to be on the privacy spectrum.&#xA;Do you want to be a normie and let companies know everything about you&#xA;OR&#xA;Do you want to be fully anonymous? Or maybe somewhere in between?&#xA;This is how you will define your values of privacy.</description>
     </item>
   </channel>
 </rss>
